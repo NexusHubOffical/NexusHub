@@ -33,6 +33,11 @@ body {
 	line-height: 1;
 }
 
+.icone {
+	border-radius: 50px;
+}
+
+
 ol, ul {
 	list-style: none;
 }
